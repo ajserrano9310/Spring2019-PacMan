@@ -1,0 +1,14 @@
+---
+:id: 26057118
+:submitters:
+- :name: Alejandro Serrano
+  :email: u1214728@utah.edu
+- :name: ALEJANDRO RUBIO
+  :email: u1219285@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-12-06 00:48:26.098902000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-12-05 16:48:26.098902000 Z
+:status: processed
+:score: 100.0
